@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D9EF8E40F006694C22CBFFB45BD06812851C4D2B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D9EF8E40F006694C22CBFFB45BD06812851C4D2B" : 9223372036854775807,
+    "99D57C0B8A8F93CCF63A9869FDE7A1A84E863D64" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2557A834-A015-443C-AC11-147473EC55B7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D9EF8E40F006694C22CBFFB45BD06812851C4D2B" : "Bmi-Calculater\/",
+    "99D57C0B8A8F93CCF63A9869FDE7A1A84E863D64" : "Bmi-Calculater\/Bmi-Calculater\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Bmi-Calculater",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Bmi-Calculater.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jy03329322\/aaa.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "99D57C0B8A8F93CCF63A9869FDE7A1A84E863D64"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jy03329322\/Bmi-Calculater.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D9EF8E40F006694C22CBFFB45BD06812851C4D2B"
+    }
+  ]
+}
